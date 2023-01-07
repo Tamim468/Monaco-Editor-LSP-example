@@ -15,7 +15,7 @@ export const launch = (socket: rpc.IWebSocket) => {
   )
   const serverConnection = server.createServerProcess(
     'Lua',
-    resolve(process.cwd(), 'lua-language-server/.bin/Linux/lua-language-server')
+    resolve(process.cwd(), 'lua-language-server/.bin/Windows/lua-language-server')
   )
   server.forward(socketConnection, serverConnection, (message) => {
     if (rpc.isRequestMessage(message) && isInitializeRequest(message)) {
