@@ -42,3 +42,4 @@ Run `npm run build`. To start the language server run `npm run server-start`.
 - JohnnyMorganz's [StyLua](https://github.com/JohnnyMorganz/StyLua)
 - Typefox's [monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) and [vscode-ws-jsonrpc](https://github.com/TypeFox/vscode-ws-jsonrpc)
 - CodinGame's [monaco-jsonrpc](https://github.com/CodinGame/monaco-jsonrpc)
+- arnson's [monaco-lua-example](https://github.com/arnoson/monaco-lua-example)
