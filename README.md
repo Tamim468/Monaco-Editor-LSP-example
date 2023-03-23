@@ -1,13 +1,9 @@
 > **Note**
-> A lot of dependencies have changed and I don't have the capcity to keep this repo up to date. Maybe it will still be useful as a starting point.
+> A lot of dependencies have changed and I don't have the capcity to keep this repo up to date. Maybe it will still be useful as a starting point -arnoson
 
 # Monaco Lua Example
 
-An example setup using sumneko's [Lua Language Server](https://github.com/sumneko/lua-language-server/) and JohnnyMorganz's [StyLua](https://github.com/JohnnyMorganz/StyLua) together with [Monaco Editor](https://github.com/microsoft/monaco-editor).
-
-If you use linux or mac, please go to launch.ts under the src inside server folder and you see this:
-- resolve(process.cwd(), 'lua-language-server/.bin/Windows/lua-language-server')
-Please change Windows to others like "Mac" or "Linux" depending on what os you use.
+An example setup using JohnnyMorganz's [Luau Language Server](https://github.com/JohnnyMorganz/luau-lsp/) and JohnnyMorganz's [StyLua](https://github.com/JohnnyMorganz/StyLua) together with [Monaco Editor](https://github.com/microsoft/monaco-editor).
 
 ## Features
 
@@ -20,7 +16,7 @@ Please change Windows to others like "Mac" or "Linux" depending on what os you u
 
 ## Info
 
-- Right now I've tested the lua language server only on linux.
+- Right now I've tested the lua language server only on linux and windows.
 - The language server uses port `8080`, so make sure this port is free or change the port in `client/src/main.ts` and `server/src/main.ts`
 - This is an npm workspaces setup, so you can run alle npm scripts inside the repository's root folder.
 
@@ -38,7 +34,7 @@ Run `npm run build`. To start the language server run `npm run server-start`.
 
 ## Credits
 
-- sumneko's [Lua Language Server](https://github.com/sumneko/lua-language-server/)
+- sumneko's [Luau Language Server](https://github.com/JohnnyMorganz/luau-lsp/)
 - JohnnyMorganz's [StyLua](https://github.com/JohnnyMorganz/StyLua)
 - Typefox's [monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) and [vscode-ws-jsonrpc](https://github.com/TypeFox/vscode-ws-jsonrpc)
 - CodinGame's [monaco-jsonrpc](https://github.com/CodinGame/monaco-jsonrpc)
