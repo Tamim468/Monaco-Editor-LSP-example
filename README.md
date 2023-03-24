@@ -39,7 +39,7 @@ Run `npm run build`. To start the language server run `npm run server-start`.
 
 ## Credits
 
-- sumneko's [Luau Language Server](https://github.com/JohnnyMorganz/luau-lsp/)
+- JohnnyMorganz's [Luau Language Server](https://github.com/JohnnyMorganz/luau-lsp/)
 - JohnnyMorganz's [StyLua](https://github.com/JohnnyMorganz/StyLua)
 - Typefox's [monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) and [vscode-ws-jsonrpc](https://github.com/TypeFox/vscode-ws-jsonrpc)
 - CodinGame's [monaco-jsonrpc](https://github.com/CodinGame/monaco-jsonrpc)
