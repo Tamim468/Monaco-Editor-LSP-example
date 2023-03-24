@@ -1,7 +1,7 @@
 > **Note**
 > A lot of dependencies have changed and I don't have the capcity to keep this repo up to date. Maybe it will still be useful as a starting point -arnoson
 
-# Monaco Lua Example
+# Monaco Editor Luau Example
 
 An example setup using JohnnyMorganz's [Luau Language Server](https://github.com/JohnnyMorganz/luau-lsp/) and JohnnyMorganz's [StyLua](https://github.com/JohnnyMorganz/StyLua) together with [Monaco Editor](https://github.com/microsoft/monaco-editor).
 
