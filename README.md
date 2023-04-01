@@ -1,1 +1,1 @@
-I don't wanna delete this repo since a lot of things lead to here (e.g. wearedevs thread release and scriptware v3 release recommending the link to this), so just you know that we have moved to https://github.com/Tamim468/Monaco-LSP
+I don't wanna delete this repo since a lot of things lead to here (e.g. wearedevs thread release and scriptware v3 remake recommending the link to this), so just you know that we have moved to https://github.com/Tamim468/Monaco-LSP
